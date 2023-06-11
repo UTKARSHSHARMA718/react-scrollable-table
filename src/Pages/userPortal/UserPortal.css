@@ -1,0 +1,12 @@
+.userDetails{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    /* background-color: brown; */
+}
+.portal-container{
+    display: flex;
+    width: 100%;
+    /* background-color: rgb(251, 208, 210); */
+}

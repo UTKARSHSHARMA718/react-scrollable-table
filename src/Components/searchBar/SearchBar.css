@@ -1,0 +1,30 @@
+
+.filter-btn{
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 0 10px;
+    /* background-color: brown; */
+    height: 30px;
+}
+.searchbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    /* background-color: aqua; */
+    margin-bottom:20px;
+    width: 600px;
+    padding: 0 20px;
+}
+#create-user-btn{
+    padding: 10px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #00aeef;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+}
+#create-user-btn:hover{
+    background-color: #0092c7;
+}
